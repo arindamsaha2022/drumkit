@@ -1,0 +1,79 @@
+.body{
+  background-color: aquamarine;
+}
+button{
+  height: 150px;
+  width: 150px;
+  box-shadow:10px;
+  font-size: 90px;
+  font-weight: bolder;
+  background-color: aliceblue;
+  border: 0px;
+  border-radius: 20px;
+}
+.all{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  
+  
+  
+}
+h1{
+  display: flex;
+  justify-content: center;
+  font-size: 70px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  color: rgb(40, 167, 89);
+  font-family: 'Caprasimo', cursive;
+}
+
+.a {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.603),rgba(255, 255, 255, 0.692)),url('a.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.s {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.603),rgba(255, 255, 255, 0.692)),url('s.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.d {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.603),rgba(255, 255, 255, 0.692)),url('d.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.f {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.603),rgba(255, 255, 255, 0.692)),url('f.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.j {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.603),rgba(255, 255, 255, 0.692)),url('j.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.k {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.603),rgba(255, 255, 255, 0.692)),url('k.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.l {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.603),rgba(255, 255, 255, 0.692)),url('l.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+
+.actkey{
+  box-shadow: 0 30px 20px 0 rgba(0, 0, 0, 0.2), 0 10px 4px 0 rgba(15, 197, 230, 0.19);
+  color: rgb(128, 230, 174);
+}
